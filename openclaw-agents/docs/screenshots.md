@@ -1,26 +1,12 @@
 # Screenshot Checklist
 
-Add screenshots after sanitizing tokens, keys, URLs, and email addresses.
 
-Recommended screenshots:
+-<img width="957" height="404" alt="image" src="https://github.com/user-attachments/assets/c3b04643-b622-4e53-abc1-bd38d87999e4" />
 
-- OpenClaw chat dashboard loaded successfully
-- Model dropdown showing multiple available models
-- EC2 terminal with `ollama list`
-- EC2 terminal with OpenClaw gateway startup logs
-- Local SSH tunnel command
-- A successful assistant response after model switching
+-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c938b3d-bbd2-40b7-bdeb-eaaa7411fc27" />
 
-Good naming examples:
+<img width="383" height="477" alt="image" src="https://github.com/user-attachments/assets/a1379198-3fe4-4279-9fa4-c3e5cf4c6bce" />
 
-- `dashboard-home.png`
-- `model-dropdown.png`
-- `ollama-list.png`
-- `gateway-startup.png`
-- `ssh-tunnel.png`
+<img width="382" height="534" alt="image" src="https://github.com/user-attachments/assets/6a55168c-74a3-40d0-975f-946f05d81c50" />
 
-Suggested README placement:
 
-- Put one dashboard screenshot near the top
-- Put one architecture or terminal screenshot in the setup section
-- Put one model-switching screenshot in the features or demo section
