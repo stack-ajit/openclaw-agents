@@ -12,6 +12,15 @@ This project documents a practical OpenClaw deployment built on Ubuntu EC2 with 
 - Dashboard model switching for recovery from cloud rate limits
 - A documented path toward agent automations and external integrations
 
+  ## Screenshots
+  <img width="1914" height="807" alt="image" src="https://github.com/user-attachments/assets/46cccd9e-af8d-422c-9716-1dd5ce9dccf5" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1cb846d1-af8e-49df-a359-f34b017285ca" />
+<img width="766" height="953" alt="image" src="https://github.com/user-attachments/assets/a7f39954-8372-44fc-9af3-3c5909539d8e" />
+<img width="764" height="1068" alt="image" src="https://github.com/user-attachments/assets/90ca67ad-9228-4726-9ca4-269d8baa24dc" />
+
+
+
+
 ## Features
 
 - EC2-hosted OpenClaw gateway bound to loopback for safer access
