@@ -1,0 +1,34 @@
+{
+  "agents": {
+    "defaults": {
+      "workspace": "/home/ubuntu/.openclaw/workspace",
+      "models": {
+        "ollama/minimax-m2.7:cloud": {},
+        "ollama/llama3:latest": {},
+        "ollama/phi3:latest": {}
+      },
+      "model": {
+        "primary": "ollama/minimax-m2.7:cloud",
+        "fallbacks": [
+          "ollama/llama3:latest"
+        ]
+      }
+    }
+  },
+  "gateway": {
+    "mode": "local",
+    "auth": {
+      "mode": "token",
+      "token": "REPLACE_ME"
+    },
+    "port": 18789,
+    "bind": "loopback",
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    },
+    "controlUi": {
+      "allowInsecureAuth": true
+    }
+  }
+}
